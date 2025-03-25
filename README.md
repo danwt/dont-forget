@@ -38,6 +38,12 @@ function tree(){
 
 ### Ripgrep
 
+```
+# search 'raw', i.e. no escapes or special character effects
+rg -F 'xxxxxxxxxxxx' .
+```
+
+
 
 
 
