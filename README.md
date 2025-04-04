@@ -39,9 +39,14 @@ function tree(){
 ### Ripgrep
 
 ```
-# search 'raw', i.e. no escapes or special character effects
+# search 'raw', i.e. no escapes or special character effect s
 rg -F 'xxxxxxxxxxxx' .
 ```
+
+### Other tools
+
+- Glow for documentation
+
 
 
 
