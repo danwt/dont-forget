@@ -48,6 +48,15 @@ rg -F 'xxxxxxxxxxxx' .
 - Glow for documentation
 
 
+## Git
+
+Remove stuff: put this in repo root https://github.com/newren/git-filter-repo
+
+```bash
+gitlarge
+python3 git-filter-repo --invert-paths --path <path>
+```
+
 
 
 
