@@ -1,8 +1,6 @@
 # dont-forget
 Reminders for common operations
 
-## CLI
-
 ### Oh my ZSH
 
 ```
@@ -45,10 +43,10 @@ rg -F 'xxxxxxxxxxxx' .
 
 ### Other tools
 
-- Glow for documentation
+- Glow for documentation https://github.com/charmbracelet/glow
 
 
-## Git
+### Git
 
 Remove stuff: put this in repo root https://github.com/newren/git-filter-repo
 
@@ -56,6 +54,13 @@ Remove stuff: put this in repo root https://github.com/newren/git-filter-repo
 gitlarge
 python3 git-filter-repo --invert-paths --path <path>
 ```
+
+- Delta for diffs https://github.com/dandavison/delta?tab=readme-ov-file
+
+### Iterm2
+
+- Set reuse previous sessions directory in profile
+
 
 
 
