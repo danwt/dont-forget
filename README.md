@@ -44,6 +44,7 @@ rg -F 'xxxxxxxxxxxx' .
 ### Other tools
 
 - Glow for documentation https://github.com/charmbracelet/glow
+- https://atuin.sh/
 
 
 ### Git
@@ -55,7 +56,9 @@ gitlarge
 python3 git-filter-repo --invert-paths --path <path>
 ```
 
-- Delta for diffs https://github.com/dandavison/delta?tab=readme-ov-file
+Delta for diffs https://github.com/dandavison/delta?tab=readme-ov-file
+
+Show branch remotes: `git branch -vv`
 
 ### Iterm2
 
