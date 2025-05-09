@@ -56,6 +56,13 @@ gitlarge
 python3 git-filter-repo --invert-paths --path <path>
 ```
 
+```bash
+git log  A..B   # Show me commits only on B.
+git log  A...B  # Show me commits only on A or only on B.
+git diff A..B   # Show me changes only on A or only on B.
+git diff A...B  # Show me changes only on B.
+```
+
 Delta for diffs https://github.com/dandavison/delta?tab=readme-ov-file
 
 Show branch remotes: `git branch -vv`
